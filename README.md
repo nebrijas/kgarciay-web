@@ -6,6 +6,9 @@ Esta actividad consistía en comentar una pieza de periodismo de datos
 
 En este [enlace](https://www.eltiempo.com/cultura/gente/el-tiempo-gano-tres-premios-de-la-snd-en-diseno-editorial-e-infografia-337592) se ve una **visualización de tres de las infografías** que fueron nominadas y ganaron  tres galardones *Awards of Excellence*, máxima distinción de los cuatro niveles que entrega la *Society for News Design (SND)* en su edición número 40. Todo se debió a que el **equipo de diseño** de este periódico es uno de los *mejores de la nación* y **prueba de ello** fueron las increíbles piezas grafícas que presentaron durante la ceremonia.
 
+![Imagen ilustrativa]
+(https://www.tecnocarreteras.es/wp-content/uploads/sites/2/2018/12/Premios-y-reconocimientos.jpg)
+
 ### **¿Cuáles fueron las infografías?**
 
 1. ***[Fracking](https://twitter.com/acp_colombia/status/1043880184615784452 "Fracking")***
@@ -21,3 +24,4 @@ La siguiente infografía sobre *El mundo del Estéreo Picnic* se realizó en el 
 La tercer y última que tuvo que ver con el *Belén de los Andaquíes* tuvo una representación gráfica que **superó las dos páginas**, esta además de datos estadísticos y gráficos, estuvo ***compuesta por imágenes de la más alta calidad*** lo que a diferencia de las anteriores le dio un plus adicional.
 
 Finalmente, este galardón que se ganó el diario colombiano, El Tiempo, que lleva **siendo líder en el mercado con una trayectoría que supera los 50 años**, sigue demostrando con ***esfuerzo y talento*** porque no ha habido ningún medio que lo supere o que lo iguale y mucho más, ahora que esta haciendo una integración entre el *formato físico y digital*.
+
