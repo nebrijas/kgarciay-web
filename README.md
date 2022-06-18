@@ -1,4 +1,4 @@
-# Reporsitorio de trabajo del módulo Periodismo de Datos II de la Nebrija
+# Repositorio de trabajo del módulo Periodismo de Datos II de la Nebrija
 
 ## Actividades Dirigidas:
 
