@@ -1,8 +1,8 @@
 # Actividad Dirigida 1
 
-Esta actividad consistía en usar github por primera vez y plasmar datos de un portal web   
+Esta actividad consistía en u en comentar una pieza de periodismo de datos   
 
-## visualización de datos de Casa Editorial El TiEMPO (Colombia)
+## EL TIEMPO ganó tres premios de la SND en diseño editorial por grandiosas infografías
 
 En este [enlace](https://www.eltiempo.com/cultura/gente/el-tiempo-gano-tres-premios-de-la-snd-en-diseno-editorial-e-infografia-337592) se ve una **visualización** de una infografía sobre el fracking muy bien elaborada
 
