@@ -9,9 +9,15 @@ En este [enlace](https://www.eltiempo.com/cultura/gente/el-tiempo-gano-tres-prem
 ¿Qué cosas me han impresionado?
 
 1.Tamaño
+
 2.Colores
+
 3.Datos precisos y ordenados
+
 4.Administración de la información
+
 5.Capacidad de síntesis 
+
 6.Habilidad para comunicar
+
 7.Sustracción de la información
