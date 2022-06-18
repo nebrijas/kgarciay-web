@@ -8,7 +8,7 @@ En este [enlace](https://www.eltiempo.com/cultura/gente/el-tiempo-gano-tres-prem
 
 ### **¿Cuáles fueron las infografías?**
 
-1.Tamaño
+1.[Fracking](https://twitter.com/acp_colombia/status/1043880184615784452 "Fracking")
 
 2.Colores
 
