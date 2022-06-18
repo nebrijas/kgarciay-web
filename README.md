@@ -1,12 +1,12 @@
 # Actividad Dirigida 1
 
-Esta actividad consistía en u en comentar una pieza de periodismo de datos   
+Esta actividad consistía en comentar una pieza de periodismo de datos   
 
 ## EL TIEMPO ganó tres premios de la SND en diseño editorial por grandiosas infografías
 
-En este [enlace](https://www.eltiempo.com/cultura/gente/el-tiempo-gano-tres-premios-de-la-snd-en-diseno-editorial-e-infografia-337592) se ve una **visualización** de una infografía sobre el fracking muy bien elaborada
+En este [enlace](https://www.eltiempo.com/cultura/gente/el-tiempo-gano-tres-premios-de-la-snd-en-diseno-editorial-e-infografia-337592) se ve una **visualización** de tres de las infografías que fueron nominadas y ganaron. Todo se debió a que el equipo de diseño de este periódico es uno de los mejores del país y prueba de ellos son las siguientes piezas grafícas:
 
-¿Qué cosas me han impresionado?
+### **¿Cuáles fueron las infografías?**
 
 1.Tamaño
 
