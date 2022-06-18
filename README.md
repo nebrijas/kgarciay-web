@@ -4,7 +4,7 @@ Esta actividad consistía en usar github por primera vez y plasmar datos de un p
 
 ## visualización de datos de Casa Editorial El TiEMPO (Colombia)
 
-En este [enlace](https://www.eltiempo.com/cultura/gente/el-tiempo-gano-tres-premios-de-la-snd-en-diseno-editorial-e-infografia-337592) se ve una **visualización** de una infografía sobre el fracking muy elaborada
+En este [enlace](https://www.eltiempo.com/cultura/gente/el-tiempo-gano-tres-premios-de-la-snd-en-diseno-editorial-e-infografia-337592) se ve una **visualización** de una infografía sobre el fracking muy bien elaborada
 
 ¿Qué cosas me han impresionado?
 
@@ -14,3 +14,4 @@ En este [enlace](https://www.eltiempo.com/cultura/gente/el-tiempo-gano-tres-prem
 4.Administración de la información
 5.Capacidad de síntesis 
 6.Habilidad para comunicar
+7.Sustracción de la información
