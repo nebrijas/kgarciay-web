@@ -8,8 +8,12 @@ En este [enlace](https://www.eltiempo.com/cultura/gente/el-tiempo-gano-tres-prem
 
 ### **¿Cuáles fueron las infografías?**
 
-1.***[Fracking](https://twitter.com/acp_colombia/status/1043880184615784452 "Fracking")***
+1. ***[Fracking](https://twitter.com/acp_colombia/status/1043880184615784452 "Fracking")***
 
-2.***[El mundo del Estéreo Picnic](https://twitter.com/infografiaetce/status/975491246520184833 "El mundo del Estéreo Picnic")***
+2. ***[El mundo del Estéreo Picnic](https://twitter.com/infografiaetce/status/975491246520184833 "El mundo del Estéreo Picnic")***
 
-3.***[Belén de los Andaquíes]([https://twitter.com/acp_colombia/status/1043880184615784452](https://www.google.com/search?q=infografia+bel%C3%A9n+el+tiempo&tbm=isch&ved=2ahUKEwjNvbm90bf4AhWpbDABHS-DCvQQ2-cCegQIABAA&oq=infografia+bel%C3%A9n+el+tiempo&gs_lcp=CgNpbWcQA1DdEVjlGWCwG2gAcAB4AIABe4gBqgWSAQMwLjaYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=ORquYo29OKnZwbkPr4aqoA8&bih=692&biw=812&rlz=1C1UEAD_esCO991CO991#imgrc=KUgdk3q5nIvT6M) "Belén de los Andaquíes")***
+3. ***[Belén de los Andaquíes](https://www.eltiempo.com/cultura/gente/el-tiempo-gano-tres-premios-de-la-snd-en-diseno-editorial-e-infografia-337592 "Belén de los Andaquíes")***
+
+Estas visualizaciones informativas no fueron de ahora, la del *Fracking* fue elaborada el 23 septiembre de 2018 y los más significativo es que fue expuesta como un proceso metodológico que implicó ilustrar al usuario sobre las implicaciones que traería esta practica al país.
+
+La siguiente infografía sobre *El mundo del Estéreo Picnic* se realizó en el mes de marzo también del mismo año (2018), esta también tenía un reto muy grande que era el hecho de sintetizar todo un ecosistemas de oportunidades y amenazas para las personas que deseaban ir al gran festival de música más gran de todo el continente.
