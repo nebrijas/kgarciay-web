@@ -14,6 +14,10 @@ En este [enlace](https://www.eltiempo.com/cultura/gente/el-tiempo-gano-tres-prem
 
 3. ***[Belén de los Andaquíes](https://www.eltiempo.com/cultura/gente/el-tiempo-gano-tres-premios-de-la-snd-en-diseno-editorial-e-infografia-337592 "Belén de los Andaquíes")***
 
-Estas visualizaciones informativas no fueron de ahora, la del *Fracking* fue elaborada el 23 septiembre de 2018 y los más significativo es que fue expuesta como un proceso metodológico que implicó ilustrar al usuario sobre las implicaciones que traería esta practica al país.
+Estas visualizaciones informativas **no fueron de ahora**, la del *Fracking* fue elaborada el 23 septiembre de 2018 y los más significativo es que fue expuesta como un ***proceso metodológico*** que implicó ilustrar al usuario sobre las **implicaciones que traería esta practica** al país.
 
-La siguiente infografía sobre *El mundo del Estéreo Picnic* se realizó en el mes de marzo también del mismo año (2018), esta también tenía un reto muy grande que era el hecho de sintetizar todo un ecosistemas de oportunidades y amenazas para las personas que deseaban ir al gran festival de música más gran de todo el continente.
+La siguiente infografía sobre *El mundo del Estéreo Picnic* se realizó en el mes de marzo, también del mismo año (2018). Esta pieza tenía un reto muy grande que era el ***hecho de sintetizar todo un ecosistemas de oportunidades y amenazas*** para las personas que deseaban ir al gran festival de música más gran de todo el continente y lo logró.
+
+La tercer y última que tuvo que ver con el *Belén de los Andaquíes* tuvo una representación gráfica que **superó las dos páginas**, esta además de datos estadísticos y gráficos, estuvo ***compuesta por imágenes de la más alta calidad*** lo que a diferencia de las anteriores le dio un plus adicional.
+
+Finalmente, este galardón que se ganó el diario colombiano, El Tiempo, que lleva **siendo líder en el mercado con una trayectoría que supera los 50 años**, sigue demostrando con ***esfuerzo y talento*** porque no ha habido ningún medio que lo supere o que lo iguale y mucho más, ahora que esta haciendo una integración entre el *formato físico y digital*.
