@@ -8,7 +8,7 @@ Consiste en comentar apropiadamente todo lo que se ha hecho como un *ejercicio d
 
 3.Enseguida en **GitBash** (*programa a descargar*) escribí **pwd** para ver directorio de donde estamos parados. Enter.
 
-4. Luego **git clone https://github.com/nebrija/kgarciay-web** para copiar el directorio al repositorio. Enter.
+4. Luego **git clone [enlace](https://github.com/nebrija/kgarciay-web)** para copiar el directorio al repositorio. Enter.
 
 5. Enseguida oprimí **ls** para ver si la carpeta estaba creada. Enter.
 
