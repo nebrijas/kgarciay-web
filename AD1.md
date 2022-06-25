@@ -29,4 +29,6 @@ Finalmente, este galardón que se ganó el diario colombiano, El Tiempo, que lle
 
 Clic [aquí](https://github.com/nebrijas/kgarciay-web/blob/main/AD2.md) para volver a *la actividad dirigida 2*
 
+Clic [aquí](https://github.com/nebrijas/kgarciay-web/blob/main/AD3.md) para volver a *la actividad dirigida 3*
+
 Clic [aquí](https://github.com/nebrijas/kgarciay-web/blob/main/README.md) para volver a *README.md*
