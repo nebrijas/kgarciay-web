@@ -5,12 +5,19 @@ Esta es la actividad dirigida 3 que consiste en hacer un ejercicio de programaci
 # Código fuente
 
 import requests
+
 import time
+
 import csv
+
 import re
+
 from bs4 import BeautifulSoup
+
 import os
+
 import pandas as pd
+
 from termcolor import colored
 
 resultados = []
