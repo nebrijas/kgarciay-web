@@ -284,7 +284,15 @@ str_match = [s for s in resultados if "sexo" in s]
 print("\n".join(str_match))
 
 ----------------------
+Explicación:
 
+1. En jypiter escribo AD3, luego doy la explicación de la actividad
+
+2. Enseguida pongo **Importar líbrerías** para indicar que voy a poner en ese gragmento
+
+4. Luego voy a pypi.org, de ahí a home page (pág de la librería)
+
+5. Vuelvo a Jupyter y agregó el enlace que encontre en la pág de librería a través de **[Request](https://requests.readthedocs.io/en/latest/)**
 
 
 
