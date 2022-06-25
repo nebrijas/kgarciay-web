@@ -286,7 +286,7 @@ print("\n".join(str_match))
 ----------------------
 Explicación:
 
-1. En jypiter escribo AD3, luego doy la explicación de la actividad
+1. En jupyter escribo AD3, luego doy la explicación de la actividad
 
 2. Enseguida pongo **Importar líbrerías** para indicar que voy a poner en ese gragmento
 
@@ -296,7 +296,7 @@ Explicación:
 
 6. Luego agregué un nuevo texto para instalar librerias y para ello, pongo **pip install requests bs4 pandas termcolor**. Control D en Markdown.
 
-7. Agrego el código:
+7. Agregé el código:
 
 import requests (envia solicitudes HTTP/1.1 de forma sencilla)
 import time (función para el tiempo)
@@ -305,8 +305,6 @@ import re ( proporciona operaciones con expresiones regulares similares a las de
 from bs4 import BeautifulSoup (recopilar información de las páginas)
 import pandas as pd (proporciona estructuras de datos rápidas, flexibles y expresivas)
 from termcolor import colored (color del texto)
-
-
 
 ------------------------
 Clic **[aquí](https://github.com/nebrijas/kgarciay-web/blob/main/AD1.md)** para volver a *la Actividad Dirigida 1*
