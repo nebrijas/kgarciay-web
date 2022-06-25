@@ -294,6 +294,18 @@ Explicación:
 
 5. Vuelvo a Jupyter y agregó el enlace que encontre en la pág de librería a través de **[Request](https://requests.readthedocs.io/en/latest/)**
 
+6. Luego agregué un nuevo texto para instalar librerias y para ello, pongo **pip install requests bs4 pandas termcolor**. Control D en Markdown.
+
+7. Agrego el código:
+
+import requests (envia solicitudes HTTP/1.1 de forma sencilla)
+import time (función para el tiempo)
+import csv (escritura y lectura de archivos)
+import re ( proporciona operaciones con expresiones regulares similares a las de Perl)
+from bs4 import BeautifulSoup (recopilar información de las páginas)
+import pandas as pd (proporciona estructuras de datos rápidas, flexibles y expresivas)
+from termcolor import colored (color del texto)
+
 
 
 ------------------------
