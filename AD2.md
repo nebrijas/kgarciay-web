@@ -1,10 +1,10 @@
 # Actividad dirigida 2
 
-Consiste en comentar apropiadamente todo lo que se ha hecho como un ejercicio de programación literaria:
+Consiste en comentar apropiadamente todo lo que se ha hecho como un *ejercicio de programación literaria*:
 
 1.Para pasar de Markdown a HTML fui a github kgarciay-web, luego me dirigí a ajustes de página, seleccioné *main* luego *root* y así lo pase a **HTML**. Enter.
 
-2. Luego me fui al escritor de código para crear un nuevo archivo en *Add file** y le di el nombre **ad2.md**. Enter.
+2. Luego me fui al escritor de código para crear un nuevo archivo en *Add file* y le di el nombre **ad2.md**. Enter.
 
 3.Enseguida en **GitBash** (*programa a descargar*) escribí **pwd** para ver directorio de donde estamos parados. Enter.
 
@@ -28,4 +28,4 @@ Consiste en comentar apropiadamente todo lo que se ha hecho como un ejercicio de
 
 13. **git push**. Enter. Para guardar.
 
-14. Tuve varias dificultades para que este apareciera en la carpeta.
+14. *Tuve varias dificultades para que este apareciera en la carpeta*.
