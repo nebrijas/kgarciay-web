@@ -24,3 +24,8 @@ La siguiente infografía sobre *El mundo del Estéreo Picnic* se realizó en el 
 La tercer y última que tuvo que ver con el *Belén de los Andaquíes* tuvo una representación gráfica que **superó las dos páginas**, esta además de datos estadísticos y gráficos, estuvo ***compuesta por imágenes de la más alta calidad*** lo que a diferencia de las anteriores le dio un plus adicional.
 
 Finalmente, este galardón que se ganó el diario colombiano, El Tiempo, que lleva **siendo líder en el mercado con una trayectoría que supera los 50 años**, sigue demostrando con ***esfuerzo y talento*** porque no ha habido ningún medio que lo supere o que lo iguale y mucho más, ahora que esta haciendo una integración entre el *formato físico y digital*.
+
+-----------------------------------
+
+Clic [aquí](https://github.com/nebrijas/kgarciay-web/blob/main/AD1.md) para volver a *la actividad dirigida 2*
+Clic [aquí](https://github.com/nebrijas/kgarciay-web/blob/main/README.md) para volver a *README.md*
