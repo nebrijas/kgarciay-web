@@ -4,7 +4,7 @@ Esta es la actividad dirigida 3 que consiste en hacer un ejercicio de programaci
 
 # Código fuente
 
-import requests
+```import requests
 
 import time
 
@@ -23,7 +23,7 @@ from termcolor import colored
 resultados = []
 
 req = requests.get("https://resultados.elpais.com")
- Si el estatus code no es 200 no se puede leer la página
+Si el estatus code no es 200 no se puede leer la página
 if (req.status_code != 200):
  raise Exception("No se puede hacer Web Scraping en"+ URL)
 soup = BeautifulSoup(req.text, 'html.parser')
@@ -311,7 +311,7 @@ import csv (escritura y lectura de archivos)
 import re ( proporciona operaciones con expresiones regulares similares a las de Perl)
 from bs4 import BeautifulSoup (recopilar información de las páginas)
 import pandas as pd (proporciona estructuras de datos rápidas, flexibles y expresivas)
-from termcolor import colored (color del texto)
+from termcolor import colored (color del texto)```
 
 ------------------------
 Clic **[aquí](https://github.com/nebrijas/kgarciay-web/blob/main/AD1.md)** para volver a *la Actividad Dirigida 1*
