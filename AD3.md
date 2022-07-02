@@ -5,25 +5,18 @@ Esta es la actividad dirigida 3 que consiste en hacer un ejercicio de programaci
 # Código fuente
 
 ```import requests
-
 import time
-
 import csv
-
 import re
-
 from bs4 import BeautifulSoup
-
 import os
-
 import pandas as pd
-
 from termcolor import colored
 
 resultados = []
 
 req = requests.get("https://resultados.elpais.com")
-Si el estatus code no es 200 no se puede leer la página
+# Si el estatus code no es 200 no se puede leer la página
 if (req.status_code != 200):
  raise Exception("No se puede hacer Web Scraping en"+ URL)
 soup = BeautifulSoup(req.text, 'html.parser')
@@ -35,7 +28,7 @@ for h2 in tags:
     resultados.append(h2.text)
 
 req2 = requests.get("https://elpais.com/internacional")
- Si el estatus code no es 200 no se puede leer la página
+# Si el estatus code no es 200 no se puede leer la página
 if (req.status_code != 200):
  raise Exception("No se puede hacer Web Scraping en"+ URL)
 soup2 = BeautifulSoup(req2.text, 'html.parser')
@@ -47,7 +40,7 @@ for h2 in tags:
     resultados.append(h2.text)
 
 req3 = requests.get("https://elpais.com/opinion")
- Si el estatus code no es 200 no se puede leer la página
+# Si el estatus code no es 200 no se puede leer la página
 if (req.status_code != 200):
  raise Exception("No se puede hacer Web Scraping en"+ URL)
 soup3 = BeautifulSoup(req3.text, 'html.parser')
@@ -59,7 +52,7 @@ for h2 in tags:
     resultados.append(h2.text)
 
 req4 = requests.get("https://elpais.com/espana/")
- Si el estatus code no es 200 no se puede leer la página
+# Si el estatus code no es 200 no se puede leer la página
 if (req.status_code != 200):
  raise Exception("No se puede hacer Web Scraping en"+ URL)
 soup4 = BeautifulSoup(req4.text, 'html.parser')
@@ -71,7 +64,7 @@ for h2 in tags:
     resultados.append(h2.text)
 
 req5 = requests.get("https://elpais.com/economia/")
- Si el estatus code no es 200 no se puede leer la página
+# Si el estatus code no es 200 no se puede leer la página
 if (req.status_code != 200):
  raise Exception("No se puede hacer Web Scraping en"+ URL)
 soup5 = BeautifulSoup(req5.text, 'html.parser')
@@ -83,7 +76,7 @@ for h2 in tags:
     resultados.append(h2.text)
 
 req6 = requests.get("https://elpais.com/sociedad/")
- Si el estatus code no es 200 no se puede leer la página
+# Si el estatus code no es 200 no se puede leer la página
 if (req.status_code != 200):
  raise Exception("No se puede hacer Web Scraping en"+ URL)
 soup6 = BeautifulSoup(req6.text, 'html.parser')
@@ -95,7 +88,7 @@ for h2 in tags:
     resultados.append(h2.text)
 
 req7 = requests.get("https://elpais.com/educacion/")
- Si el estatus code no es 200 no se puede leer la página
+# Si el estatus code no es 200 no se puede leer la página
 if (req.status_code != 200):
  raise Exception("No se puede hacer Web Scraping en"+ URL)
 soup7 = BeautifulSoup(req7.text, 'html.parser')
@@ -107,7 +100,7 @@ for h2 in tags:
     resultados.append(h2.text)
 
 req8 = requests.get("https://elpais.com/clima-y-medio-ambiente/")
- Si el estatus code no es 200 no se puede leer la página
+# Si el estatus code no es 200 no se puede leer la página
 if (req.status_code != 200):
  raise Exception("No se puede hacer Web Scraping en"+ URL)
 soup8 = BeautifulSoup(req8.text, 'html.parser')
@@ -119,7 +112,7 @@ for h2 in tags:
     resultados.append(h2.text)
 
 req9 = requests.get("https://elpais.com/ciencia/")
- Si el estatus code no es 200 no se puede leer la página
+# Si el estatus code no es 200 no se puede leer la página
 if (req.status_code != 200):
  raise Exception("No se puede hacer Web Scraping en"+ URL)
 soup9 = BeautifulSoup(req9.text, 'html.parser')
@@ -131,7 +124,7 @@ for h2 in tags:
     resultados.append(h2.text)
 
 req10 = requests.get("https://elpais.com/cultura/")
- Si el estatus code no es 200 no se puede leer la página
+# Si el estatus code no es 200 no se puede leer la página
 if (req.status_code != 200):
  raise Exception("No se puede hacer Web Scraping en"+ URL)
 soup10 = BeautifulSoup(req10.text, 'html.parser')
@@ -143,7 +136,7 @@ for h2 in tags:
     resultados.append(h2.text)
 
 req11 = requests.get("https://elpais.com/babelia/")
- Si el estatus code no es 200 no se puede leer la página
+# Si el estatus code no es 200 no se puede leer la página
 if (req.status_code != 200):
  raise Exception("No se puede hacer Web Scraping en"+ URL)
 soup11 = BeautifulSoup(req11.text, 'html.parser')
@@ -155,7 +148,7 @@ for h2 in tags:
     resultados.append(h2.text)
 
 req12 = requests.get("https://elpais.com/deportes/")
- Si el estatus code no es 200 no se puede leer la página
+# Si el estatus code no es 200 no se puede leer la página
 if (req.status_code != 200):
  raise Exception("No se puede hacer Web Scraping en"+ URL)
 soup12 = BeautifulSoup(req12.text, 'html.parser')
@@ -167,7 +160,7 @@ for h2 in tags:
     resultados.append(h2.text)
 
 req13 = requests.get("https://elpais.com/tecnologia/")
- Si el estatus code no es 200 no se puede leer la página
+# Si el estatus code no es 200 no se puede leer la página
 if (req.status_code != 200):
  raise Exception("No se puede hacer Web Scraping en"+ URL)
 soup13 = BeautifulSoup(req13.text, 'html.parser')
@@ -179,7 +172,7 @@ for h2 in tags:
     resultados.append(h2.text)
 
 req14 = requests.get("https://elpais.com/tecnologia/")
- Si el estatus code no es 200 no se puede leer la página
+# Si el estatus code no es 200 no se puede leer la página
 if (req.status_code != 200):
  raise Exception("No se puede hacer Web Scraping en"+ URL)
 soup14 = BeautifulSoup(req14.text, 'html.parser')
@@ -191,7 +184,7 @@ for h2 in tags:
     resultados.append(h2.text)
 
 req15 = requests.get("https://elpais.com/gente/")
- Si el estatus code no es 200 no se puede leer la página
+# Si el estatus code no es 200 no se puede leer la página
 if (req.status_code != 200):
  raise Exception("No se puede hacer Web Scraping en"+ URL)
 soup15 = BeautifulSoup(req15.text, 'html.parser')
@@ -203,7 +196,7 @@ for h2 in tags:
     resultados.append(h2.text)
 
 req16 = requests.get("https://elpais.com/television/")
- Si el estatus code no es 200 no se puede leer la página
+# Si el estatus code no es 200 no se puede leer la página
 if (req.status_code != 200):
  raise Exception("No se puede hacer Web Scraping en"+ URL)
 soup16 = BeautifulSoup(req16.text, 'html.parser')
@@ -215,7 +208,7 @@ for h2 in tags:
     resultados.append(h2.text)
 
 req17 = requests.get("https://elpais.com/eps/")
- Si el estatus code no es 200 no se puede leer la página
+# Si el estatus code no es 200 no se puede leer la página
 if (req.status_code != 200):
  raise Exception("No se puede hacer Web Scraping en"+ URL)
 soup17 = BeautifulSoup(req17.text, 'html.parser')
@@ -288,7 +281,7 @@ print("\n".join(str_match))
 print(colored("Sexo", 'green', attrs=['bold']))
 
 str_match = [s for s in resultados if "sexo" in s]
-print("\n".join(str_match))
+print("\n".join(str_match))```
 
 ----------------------
 Explicación:
@@ -311,7 +304,7 @@ import csv (escritura y lectura de archivos)
 import re ( proporciona operaciones con expresiones regulares similares a las de Perl)
 from bs4 import BeautifulSoup (recopilar información de las páginas)
 import pandas as pd (proporciona estructuras de datos rápidas, flexibles y expresivas)
-from termcolor import colored (color del texto)```
+from termcolor import colored (color del texto)
 
 ------------------------
 Clic **[aquí](https://github.com/nebrijas/kgarciay-web/blob/main/AD1.md)** para volver a *la Actividad Dirigida 1*
