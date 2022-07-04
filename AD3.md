@@ -1449,7 +1449,7 @@ Termina también la lista de impresiones
 
 ## Impresión final
 
-En esta sección se mostrará la impresión final con la ejecución del código completo
+En esta sección se mostrará la impresión final con la ejecución del código completo. Teniendo en cuenta uqe evidentemente en la terminal de Spyder que es el programa que se utilizó a lo largo de esta actividad si se imprime el texto con los colores correspondientes por cada impresión y además, la negrilla añadida al texto a lo largo del código
 
 ```
 Flavita Banana
