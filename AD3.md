@@ -1958,14 +1958,15 @@ Susan Meiselas, una vida de fotógrafa entre la industria del sexo y las guerras
 En esta sección se finaliza la actividad después de evidenciar el buen funcionamiento del código, las explicaciones de cada función, ciclo, excepción y condicional que se encontrara. También, se logró comprender un poco mejor el uso del Web Scrapping, el uso de las URL por medio de los estados activos de HTTP, se aprendieron nuevas técnicas de programación y se instalaron nuevos programas que permitieron un mejor entendimiento.
 
 ------------------------
-Clic [aquí] (https://github.com/nebrijas/kgarciay-web/blob/main/AD1.md)** para volver a *la Actividad Dirigida 1*
+Clic **[aquí](https://github.com/nebrijas/kgarciay-web/blob/main/AD1.md)** para volver a *la Actividad Dirigida 1*
 
-Clic [aquí] (https://github.com/nebrijas/kgarciay-web/blob/main/AD2.md) para volver a *la actividad dirigida 2*
+Clic **[aquí](https://github.com/nebrijas/kgarciay-web/blob/main/AD2.md)** para volver a *la Actividad Dirigida 2*
 
-Clic [aquí] (https://github.com/nebrijas/kgarciay-web/blob/main/AD3.md) para volver a *la actividad dirigida 3*
+Clic **[aquí](https://github.com/nebrijas/kgarciay-web/blob/main/AD3.md)** para volver a *la Actividad Dirigida 3*
 
-Clic [aquí] (https://github.com/nebrijas/kgarciay-web/blob/main/AD4.md) para volver a *la actividad dirigida 4*
+Clic **[aquí](https://github.com/nebrijas/kgarciay-web/blob/main/AD4.md)** para volver a *la Actividad Dirigida 4*
 
-Clic [aquí] (https://github.com/nebrijas/kgarciay-web/blob/main/README.md) para volver a *README.md*
+Clic **[aquí](https://github.com/nebrijas/kgarciay-web/blob/main/README.md)** para volver a *README*
+
 
 
