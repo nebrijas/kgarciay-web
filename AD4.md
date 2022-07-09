@@ -540,3 +540,15 @@ El resultado es un gráfico de línea en el cual el eje x es el "index" establec
 ### Gráfico resultante
 
 <img src = "https://github.com/nebrijas/kgarciay-web/blob/main/grafica_cen_A.png">
+
+
+-----------------------------------
+
+Clic **[aquí](https://github.com/nebrijas/kgarciay-web/blob/main/AD1.md)** para volver a *la Actividad Dirigida 1*
+
+Clic **[aquí](https://github.com/nebrijas/kgarciay-web/blob/main/AD2.md)** para volver a *la Actividad Dirigida 2*
+
+Clic **[aquí](https://github.com/nebrijas/kgarciay-web/blob/main/AD3.md)** para volver a *la Actividad Dirigida 3*
+
+Clic **[aquí](https://github.com/nebrijas/kgarciay-web/blob/main/README.md)** para volver a *README*
+
