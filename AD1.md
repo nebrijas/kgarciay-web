@@ -6,8 +6,7 @@ Esta actividad consistía en comentar una pieza de periodismo de datos
 
 En este [enlace](https://www.eltiempo.com/cultura/gente/el-tiempo-gano-tres-premios-de-la-snd-en-diseno-editorial-e-infografia-337592) se ve una **visualización de tres de las infografías** que fueron nominadas y ganaron  tres galardones *Awards of Excellence*, máxima distinción de los cuatro niveles que entrega la *Society for News Design (SND)* en su edición número 40. Todo se debió a que el **equipo de diseño** de este periódico es uno de los *mejores de la nación* y **prueba de ello** fueron las increíbles piezas grafícas que presentaron durante la ceremonia.
 
-![Imagen ilustrativa]
-(https://www.tecnocarreteras.es/wp-content/uploads/sites/2/2018/12/Premios-y-reconocimientos.jpg)
+<img src = "https://github.com/nebrijas/kgarciay-web/blob/main/Premios-y-reconocimientos.png">
 
 ### **¿Cuáles fueron las infografías?**
 
